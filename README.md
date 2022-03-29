@@ -24,7 +24,7 @@
 
 <ul>
   <li>This project is a group project.</li>
-  <li>This project was developed using Android Studio.</li>
+  <li>It was developed using Android Studio.</li>
   <li>The backend used is Firebase Database.</li>
   <li>Updates currently on hold.</li>
 </ul>
