@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TymScape</string>
+    <string name="label1">Email ID</string>
+    <string name="label2">Password</string>
+</resources>

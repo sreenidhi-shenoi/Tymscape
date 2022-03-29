@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470689047309",
+    "project_id": "tymscapemain",
+    "storage_bucket": "tymscapemain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470689047309:android:554e6fc3f9c03b3144c644",
+        "android_client_info": {
+          "package_name": "com.example.tymscapemain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470689047309-vu5kig1iprknf8fpk1mv888i2kdk3uqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tymscapemain",
+            "certificate_hash": "d68a608a6cbeacaf0d10e496ac1a9620c055474d"
+          }
+        },
+        {
+          "client_id": "470689047309-ad1ebb0l1h6p7kod89j3uuocici7hqbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJojZ2dwHDSneFOT4KJnnB045H8-cKSM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470689047309-ad1ebb0l1h6p7kod89j3uuocici7hqbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
