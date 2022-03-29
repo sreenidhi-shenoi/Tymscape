@@ -19,6 +19,7 @@
     <td> <img src = "/images/add_event.jpg"> </td>
   </tr>
 </table>
+
 #
 
 <ul>
